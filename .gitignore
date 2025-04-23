@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+
+# Data
+data/raw_data.csv
+
+# Office Docs Backups
+*.tmp
+*.bak
+*.~*
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VS Code or Cursor
+.vscode/
+cursor.json
